@@ -8,7 +8,7 @@
 ## 🚀 About me
 
 - Building **VolApp** — a production fleet GPS tracking platform for dump truck companies in Buenos Aires
-- Contractor at **Kaitomo** (Japan 1y) — OCR + LLM scanning pipeline + price comparison (1M+ scraped products)
+- Contractor at **Kaitomo** (Japan) — OCR + LLM scanning pipeline over 1.4M products
 - Published **ghextractor** on npm — 2,900+ downloads, open source CLI + Electron GUI
 - Heavy agentic coding user — used every major model in every harness. Currently: Claude Code + GLM, Codex + GPT-5.5, Kilo + Ollama cloud
 - I break things, test, break again, test again — until it feels right. If it doesn't feel perfect I keep pushing
@@ -20,7 +20,7 @@
 **Languages:** TypeScript · JavaScript · Java · SQL  
 **Frontend:** React 18 · Next.js · React Native (Expo) · Tailwind CSS · Electron · Vite  
 **Backend:** Node.js · Fastify · Supabase (PostgreSQL · Auth · Realtime · RPC · Edge Functions)  
-**AI / ML:** Prompt engineering · Llama 8B · DeepSeek · GPT/Codex · Claude · Whisper STT · Google Cloud Vision · OCR pipelines  
+**AI / ML:** Prompt engineering · Llama 8B · DeepSeek · GPT-4 · Claude · Whisper STT · Google Cloud Vision · OCR pipelines  
 **Mobile:** Capacitor · Android Foreground Service (Java/Kotlin) · SQLite offline queues  
 **Databases:** PostgreSQL · MongoDB (Prisma ORM) · SQLite · Redis  
 **DevOps:** GitHub Actions CI/CD · Docker · Google Cloud · Prometheus · Grafana · Vercel  
@@ -59,9 +59,9 @@ Full-stack mobile app: barcode/receipt scanning, price comparison via Google Sho
 
 `React Native` `Expo` `Fastify` `MongoDB` `Prisma` `Stripe` `Docker` `GitHub Actions`
 
-> 3-person startup: Juan (PM), Cami (Sr), me (everything else).  
+> 3-person startup: Juan (PM), Cami (Sr), me (monkey).  
 > Started doing small UI buttons, ended up owning the full pipeline: Docker, Prometheus/Grafana monitoring, CI/CD, Vitest suite, OCR pipeline, and most of the frontend.  
-> Stack from mid-2025: Windsurf + Claude Code. Early stage: GPT + GLM.
+> Windsurf + Claude Sonnet + GPT — from around mid-2025.
 
 ---
 
