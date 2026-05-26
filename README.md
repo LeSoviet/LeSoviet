@@ -20,7 +20,7 @@
 **Languages:** TypeScript · JavaScript · Java · SQL  
 **Frontend:** React 18 · Next.js · React Native (Expo) · Tailwind CSS · Electron · Vite  
 **Backend:** Node.js · Fastify · Supabase (PostgreSQL · Auth · Realtime · RPC · Edge Functions)  
-**AI / ML:** Prompt engineering · Llama 8B · DeepSeek · GPT-4 · Claude · Whisper STT · Google Cloud Vision · OCR pipelines  
+**AI / ML:** Prompt engineering · Llama 8B · DeepSeek · GPT/Codex · Claude · Whisper STT · Google Cloud Vision · OCR pipelines  
 **Mobile:** Capacitor · Android Foreground Service (Java/Kotlin) · SQLite offline queues  
 **Databases:** PostgreSQL · MongoDB (Prisma ORM) · SQLite · Redis  
 **DevOps:** GitHub Actions CI/CD · Docker · Google Cloud · Prometheus · Grafana · Vercel  
